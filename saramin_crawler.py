@@ -393,7 +393,7 @@ class SaraminCrawler:
         print("🚀 크롤링 시작!")
 
         # 다양한 검색 조건들
-            search_configs = [
+        search_configs = [
             {
                 'name': '데이터 분석',
                 'keyword': '데이터 분석',
